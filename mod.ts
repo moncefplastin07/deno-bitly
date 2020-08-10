@@ -1,1 +1,1 @@
-export {Bitly} from "./src/bitly.ts"
+export {Bitly} from "./bitly.ts"
