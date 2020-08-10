@@ -2,6 +2,9 @@
 is simple module for deno It helps us to make short url with Bitly
 
 # Usage
+### ***Firstival***: the module require --allow-net flag 
+#### like this 
+***$*** ``` deno run --allow-net xxx.ts ```
 ### Shorten link.
 ```js
 import { Bitly } from "https://deno.land/x/bitly/mod.ts";
